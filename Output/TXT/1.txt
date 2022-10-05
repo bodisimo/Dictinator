@@ -1,0 +1,1368 @@
+$sys S.31
+$sys” S.31
+0000 S.35 S.45
+0001 S.35 S.45
+0010 S.35 S.46
+0011 S.35 S.46
+0100 S.35
+0101 S.35
+010100101000101011100010110111101010000101010101010101010100101 S.15
+0110 S.35
+01101001 S.14
+0111 S.35
+0x00 S.35 S.38
+0x01 S.35
+0x02 S.35 S.39 S.45
+0x03 S.35
+0x04 S.35
+0x05 S.35
+0x06 S.35
+0x07 S.35
+0x08 S.35
+0x09 S.35
+0x0a S.35
+0x0b S.35
+0x0c S.35
+0x0d S.35
+0x0e S.35
+0x0f S.35
+0x10 S.45
+0x2a S.39 S.39
+0x30 S.46
+0x7f S.38 S.39
+0x8001 S.38
+0x808001 S.38
+0x80808001 S.38
+0x82 S.46
+0xff7f S.38
+0xffff7f S.38
+0xffffff7f S.38
+100 S.11 S.16 S.22 S.23 S.61
+1000 S.35 S.46
+1000base S.43 S.43
+1001 S.35
+100base S.43 S.43
+1010 S.35
+1011 S.35
+1100 S.35
+1101 S.35
+1110 S.35
+1111 S.35
+127 S.38 S.39
+128 S.17 S.38 S.39 S.44
+128² S.38 S.38 S.39
+128³ S.38
+1440 S.41
+1460 S.41 S.44
+1500 S.16 S.41
+16383 S.38
+16384 S.38
+168 S.44 S.44 S.45 S.46 S.53
+1784 S.55
+184 S.44 S.44 S.45 S.46
+1870 S.55
+1883 S.32 S.32 S.44 S.45 S.46 S.49 S.51
+1900 S.5 S.8 S.9
+192 S.44 S.44 S.45 S.46 S.53
+1969 S.55
+1980 S.59 S.59
+1999 S.27
+1st S.55
+2000 S.59
+2013 S.27
+2014 S.27
+2015 S.59
+2018 S.62 S.69
+2019 S.27
+202 S.5 S.8 S.9
+20922 S.27
+2097151 S.38
+2097152 S.38
+256 S.38 S.41
+268 S.41
+268435455 S.38 S.38
+29200 S.44 S.44
+298 S.39
+2nd S.55
+30000 S.11
+37094 S.44 S.44 S.45 S.46
+37096 S.44
+38271 S.39
+3gpp S.20
+3rd S.55
+4bit S.36
+4hana S.58
+4th S.55
+500 S.11 S.11 S.22 S.23
+509 S.20 S.49
+6028 S.5 S.8 S.9
+60529 S.68
+616 S.46 S.46
+624 S.46 S.46
+64240 S.44 S.44
+64256 S.44 S.44
+708 S.45
+728 S.45 S.45
+8883 S.32 S.49
+a72 S.11
+abstract S.14
+abstraction S.10
+access S.16 S.16 S.21 S.22 S.23
+according S.68 S.69
+ack S.42 S.44 S.45 S.46
+acknowledged S.37
+acknowledgement S.19 S.35 S.42
+acknowledgment S.35
+acquisition S.58
+acronym S.33
+active S.31
+actual S.40
+actuation S.5
+actuator S.59 S.59 S.60
+actuators S.10 S.10 S.23 S.57 S.58
+adafruit_dht S.51 S.51
+adapted S.5
+added S.15
+addr S.41 S.41
+address S.12 S.16 S.17 S.41 S.42 S.53
+addressable S.11
+addresses S.13 S.16 S.45
+addressing S.16 S.17
+advanced S.52 S.61
+advancement S.20
+after S.13 S.37
+against S.66 S.66 S.69
+agement S.57
+aggregation S.22 S.23
+agreements S.66
+agriculture S.6
+air S.66
+alive S.45
+all S.9 S.10 S.29 S.35 S.36 S.47
+alliance S.20
+allowed S.29 S.29 S.40
+also S.10 S.16 S.27 S.32 S.56 S.58
+alternative S.49
+alternatives S.52
+am2302 S.51
+american S.20
+amount S.31
+amqp S.52
+analog S.8
+analysis S.60
+ansi S.20
+answers S.9
+anycast S.13
+app S.60
+application S.10 S.14 S.15 S.24 S.45 S.52
+applications S.19 S.23 S.24 S.50
+applied S.1 S.3 S.25 S.54
+approach S.59
+appropriate S.47
+appropriately S.9
+apps S.50
+architecture S.11 S.27 S.63
+arduino S.11
+area S.22 S.22 S.23 S.62 S.63
+areas S.63
+arm S.11
+arp S.16 S.44
+aruba S.65 S.65
+arubanetworks S.65
+ascii S.20
+assembly S.55
+assets S.65
+assured S.37
+asynchronous S.27 S.28
+atis S.20
+atmega S.11
+atmel S.11
+attribution S.1 S.3 S.25 S.54
+audio S.20
+augmented S.56
+authentication S.49 S.49
+authorization S.49
+automation S.6 S.24 S.55 S.57 S.58 S.61 S.64
+automotive S.4
+availability S.66 S.66 S.67
+avoids S.41
+axis S.61
+backbone S.21
+backend S.22 S.23
+backward S.27
+balancing S.48
+band S.13 S.13
+base S.69
+based S.12 S.17 S.19 S.50 S.52
+basic S.63 S.63
+bbf S.20
+been S.31
+best S.12 S.17
+better S.49
+between S.13 S.14 S.28 S.41 S.63
+beverages S.61
+billion S.11 S.11
+billions S.11
+bin S.51
+binary S.52
+bit S.11 S.11 S.15 S.16 S.17 S.18 S.19 S.36 S.37 S.38 S.42
+bits S.14 S.36 S.45 S.46
+bluetooth S.10 S.62
+board S.10
+border S.63
+both S.9 S.10 S.28 S.35 S.53
+both? S.9
+bridge S.48
+bridges S.48
+bridge” S.16
+bridging S.48 S.48
+broadband S.20
+broadcast S.13
+broadcom S.11
+broker S.26 S.26 S.28 S.31 S.37 S.43 S.44 S.45 S.47 S.48 S.49 S.51 S.53
+brokers S.28 S.32 S.47 S.48 S.50
+browser S.50
+building S.6 S.24
+buildings S.8
+bulb S.44 S.45 S.46
+bus S.59 S.59
+business S.21 S.22 S.23 S.58 S.63
+but S.8
+byte S.16 S.19 S.32 S.36 S.38 S.40 S.41 S.42
+bytes S.38 S.38 S.42 S.45 S.46 S.53
+cabinet S.59 S.59
+cabinets S.66
+cable S.16 S.21 S.59
+cables S.14
+cache S.11
+called S.8 S.16
+can S.9 S.9 S.13 S.28 S.32 S.47
+capabilities S.9 S.9
+capex S.67
+capital S.67
+captured S.45 S.46
+carrier S.16
+cars S.56
+cases S.1 S.2 S.4 S.5 S.6 S.7 S.8 S.9 S.48 S.56
+categories S.9
+cell S.63
+cells S.63
+cellular S.20 S.21 S.62
+cent S.11
+central S.59 S.59
+certificates S.49
+channels S.29
+chapter S.1 S.2 S.6
+characteristics S.5 S.11
+characters S.29
+check S.16 S.42
+checksum S.17 S.18 S.19 S.41 S.42
+chemical S.61
+chip S.11
+circuit S.13
+cisco S.64 S.64
+cities S.4
+city” S.6
+classification S.11
+clean S.45 S.45
+clear S.7
+client S.24 S.26 S.28 S.35 S.37 S.43 S.44 S.45 S.47 S.49 S.50 S.51
+clientid S.51 S.51
+clients S.28 S.28 S.31 S.47 S.50
+clock S.11
+cloud S.60
+coap S.24 S.24 S.52
+code S.14
+codecs S.20
+collision S.16
+com S.31 S.50 S.64 S.65
+command S.44 S.45
+commercial S.66 S.66
+commission S.20
+commodity S.56 S.66
+commons S.1 S.3 S.25 S.54
+communicated S.13 S.13
+communication S.4 S.5 S.7 S.8 S.13 S.14 S.24 S.26 S.27 S.28 S.29 S.30 S.31 S.49 S.62 S.63
+compatibility S.67
+compatible S.11 S.27
+complete S.35
+complex S.11 S.12 S.59
+component S.9 S.9
+components S.8 S.8 S.9 S.26
+compressors S.61
+comprise S.8
+compromise S.14
+computer S.10 S.24 S.55
+computers S.10
+computing S.4 S.7
+concepts S.1 S.2
+conditioned S.66
+confidentiality S.19 S.49 S.66
+configuration S.51
+congestion S.18 S.19 S.41
+connack S.33 S.35
+connect S.33 S.34 S.35 S.44 S.45 S.47 S.51
+connected S.31 S.31
+connection S.13 S.13 S.16 S.19 S.41 S.51 S.59 S.60
+connectionless S.12 S.17 S.18
+connectivity S.55 S.62
+connects S.24 S.48
+consisting S.14
+consortium S.20
+constrained S.10 S.24 S.52
+constraint S.27
+consumption S.11
+contd S.42 S.42 S.46
+content S.2 S.26 S.28 S.40
+control S.13 S.13 S.14 S.15 S.16 S.18 S.19 S.41 S.44 S.45 S.46 S.56 S.57 S.58 S.59 S.61 S.63
+controller S.60
+controllers S.59
+convergence S.66
+converter S.16
+copy S.1 S.3 S.25 S.54
+core S.21 S.21 S.22 S.23
+cores S.11
+cortex S.11
+cost S.11
+cots S.56 S.66
+count S.31
+cpps S.7
+cps S.8 S.8 S.9
+cps” S.8 S.8
+cpu S.10 S.11
+cpwe S.64
+cpwe_phyarch_appguide S.64
+cpwe_phyarch_chap1 S.64
+creative S.1 S.3 S.25 S.54
+creativecommons S.1 S.3 S.25 S.54
+critical S.4 S.61
+csma S.16
+css S.20
+ctrl S.60 S.60
+current S.27 S.31
+currently S.31
+customers S.21 S.22 S.23
+cutting S.61
+cyber S.2 S.2 S.3 S.4 S.5 S.6 S.7 S.8 S.9 S.10 S.11 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23 S.24 S.25 S.26 S.27 S.28 S.29 S.30 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.44 S.45 S.46 S.47 S.48 S.49 S.50 S.51 S.52 S.53 S.54 S.55 S.56 S.57 S.58 S.59 S.60 S.61 S.62 S.63 S.64 S.65 S.66 S.67 S.68 S.69
+data S.13 S.14 S.15 S.16 S.19 S.32 S.42 S.53 S.58 S.69
+databases S.26
+datagram S.14 S.18
+datagrams S.24
+dca632877bc8 S.44 S.44 S.45 S.46
+deal S.41
+decades S.66
+decapsulation S.43
+decouples S.28
+dect S.20
+dedicated S.10 S.66
+default S.19 S.32 S.37 S.69
+define S.29
+defined S.9 S.29 S.36 S.38
+definition S.7 S.8
+definitions S.8 S.8
+delay S.61 S.61
+delimiter S.16
+delimiters S.13
+delivery S.12 S.37 S.45 S.46
+delock S.44 S.44 S.45 S.46
+demilitarized S.63 S.63
+demultiplexing S.18 S.19
+denotes S.8
+density S.66
+department S.66 S.66
+deployed S.62
+description S.31 S.35 S.37
+designed S.24
+dest S.16
+destination S.12 S.17 S.18 S.19 S.42 S.44
+detection S.16 S.18 S.19
+determinism S.66
+developed S.27
+device S.10 S.10 S.24 S.44 S.60
+devices S.8 S.8 S.10 S.11 S.55 S.59 S.66
+dht22 S.51 S.51
+dht22gpiopin S.51 S.51
+different S.14 S.16 S.33
+differing S.9
+differs S.56
+digit S.38
+digital S.6 S.8 S.20 S.21 S.56
+digits S.38 S.38
+direction S.35 S.69
+directional S.28 S.48
+directly S.8
+discarded S.47 S.47
+disconnect S.33 S.35 S.44 S.47 S.51
+disconnecting S.35
+disconnects S.47 S.47
+distances S.16
+distributed S.12 S.52 S.59
+disturbance S.66
+dns S.14
+docs S.27 S.27 S.64
+does S.9 S.9 S.31 S.69
+doi S.5 S.8 S.9
+domain S.14
+downtime S.66
+drawing S.61
+drones S.56
+dscp S.17
+dsl S.20 S.21
+dst S.41 S.41 S.45 S.46
+dup S.34 S.34 S.36 S.37 S.46
+duplex S.19
+duplication S.34 S.36
+dust S.66 S.66 S.69
+each S.9 S.28 S.37 S.38
+ease S.67
+ec086b5339da S.44 S.44 S.45 S.46
+echtzeitunterstützung S.67
+eclipse S.27 S.50
+ecn S.17
+edge S.4
+effect S.69
+efficiency S.66
+efficient S.27
+effort S.12 S.17
+electric S.55
+electrical S.20 S.56 S.66
+electricity S.55
+electromagnetic S.67
+electronic S.10
+electronics S.20 S.55
+electrotechnical S.20
+elements S.9 S.9 S.16 S.17
+embedded S.8 S.10 S.24 S.60
+emerging S.56
+employ S.8
+enable S.47
+enabled S.50
+encapsulated S.24
+encapsulates S.53
+encapsulation S.15 S.15 S.42 S.43 S.53
+encodes S.38
+encoding S.29 S.38 S.39
+encryption S.49 S.53
+end S.29
+endpoints S.13
+energy S.5 S.9 S.24 S.56 S.61
+engineered S.5 S.8
+engineering S.20 S.62
+engineers S.20
+enterprise S.52 S.58 S.63
+entire S.29
+environment S.8 S.66
+environmental S.6 S.9
+environments S.27 S.67
+equipment S.61
+ermination S.13
+erp S.57 S.58
+error S.18 S.18 S.19
+errors S.13
+esslingen S.1 S.2 S.3 S.25 S.54 S.66
+establish S.51
+etc S.6 S.9 S.56 S.66 S.67
+eth S.41 S.43
+ethernet S.10 S.14 S.16 S.20 S.24 S.41 S.42 S.43 S.45 S.46 S.57 S.59 S.62
+ethertype S.41 S.42
+etsi S.20
+eur S.11 S.11
+european S.20
+event S.27
+events S.13
+everything S.7
+evolution S.23 S.59
+exactly S.34 S.37
+example S.8 S.8 S.9 S.11 S.24 S.29 S.30 S.31 S.39 S.41 S.42 S.43 S.44 S.45 S.46 S.48 S.51 S.53 S.56 S.58 S.60 S.62 S.64 S.65 S.68 S.69
+examples S.7 S.14 S.20 S.21 S.26 S.40 S.50 S.51
+exception S.47
+execution S.58 S.58
+exercise S.24 S.53 S.69
+exist S.8
+expenditures S.67 S.67
+expires S.13
+explanation S.45
+explicitly S.13
+extended S.66
+extensions S.16
+facto S.27
+factor S.9
+factory S.61 S.61
+factory” S.56
+failures S.41
+family S.20
+fcs S.16 S.16 S.41 S.42
+few S.10 S.11 S.66
+ffffffffffff S.44
+fiber S.14 S.16 S.21
+field S.36 S.37 S.38 S.57 S.59 S.60
+fieldbus S.59 S.59
+fieldbuses S.20 S.57 S.62
+fieldbusses S.10
+file S.13 S.26
+files S.69
+filling S.61
+fin S.42 S.44
+fire S.33 S.37 S.45 S.46
+firewalls S.17 S.63
+first S.36
+firstfloor S.30
+five S.14
+fixed S.21 S.22 S.23 S.32 S.36 S.37 S.38 S.40
+flag S.37 S.45 S.46 S.47
+flagged S.47
+flags S.17 S.19 S.36 S.37 S.42 S.45 S.46
+floor S.66
+flow S.18 S.19 S.41 S.61
+food S.61
+forbidden S.35 S.35
+force S.20
+forget S.37 S.45 S.46
+forget” S.33
+format S.13 S.32 S.36 S.38 S.40 S.51
+forming S.61
+forum S.20 S.20
+forward S.47
+forwarding S.12 S.17
+forwards S.28
+foundation S.27
+fragment S.17 S.42
+fragmentation S.17 S.41
+frame S.15 S.16 S.41 S.42 S.45 S.46 S.53
+frames S.16 S.16 S.53
+frequency S.10 S.11 S.14
+frequently S.11 S.14
+from S.5 S.10 S.16 S.38 S.40 S.44 S.45 S.46 S.47 S.51 S.59 S.69
+ftp S.13
+ftth S.21
+fulfill S.66
+full S.10 S.52
+function S.8 S.9 S.10
+functions S.9 S.9 S.14 S.16 S.17 S.18 S.19
+fundamentals S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23
+funktionssicherheit S.67
+further S.36
+gas S.56 S.61
+gateway S.60
+gateways S.17
+gbit S.16
+generation S.20
+german S.58
+ghz S.11 S.11 S.43
+gib S.10 S.11
+github S.31
+globally S.16 S.17
+governing S.13
+gracefully S.47
+grid S.56
+groundfloor S.29 S.30
+gsm S.20
+guaranteed S.33
+handling S.13
+handshaking S.13
+haproxy S.50 S.50
+hard S.13
+hardware S.10 S.10
+harmful S.69
+harness S.59 S.59
+has S.9 S.10 S.31 S.41 S.44
+have S.9 S.9 S.28
+header S.15 S.15 S.17 S.32 S.36 S.37 S.38 S.40 S.41 S.42 S.45 S.46 S.53
+headers S.40
+healthcare S.6
+hierarchical S.29
+hierarchy S.26 S.47
+high S.58 S.66
+historical S.16 S.59
+historically S.16
+hivemq S.50 S.50
+hmi S.10 S.10 S.58
+hochschule S.1 S.2 S.3 S.25 S.54 S.66
+home S.6 S.21 S.44 S.45 S.46
+home” S.6
+hop S.17 S.43
+horizontal S.48
+hotspots S.21
+how S.13
+html S.20 S.27 S.64
+http S.1 S.3 S.13 S.14 S.25 S.26 S.27 S.52 S.54
+https S.5 S.8 S.9 S.27 S.31 S.50 S.64 S.65 S.68 S.69
+hubs S.16
+human S.8 S.9 S.10 S.58
+humans S.8
+humidity S.51 S.51
+hybrid S.14 S.14 S.15
+hypertext S.13 S.14
+iab S.8
+ibm S.27
+icps S.7
+ics S.56
+ict S.5 S.5
+identification S.10 S.17 S.42
+identifier S.40 S.46
+identifiers S.13
+idmz S.63 S.63
+iec S.20 S.27 S.68
+ieee S.20 S.23
+ietf S.8 S.20
+ihl S.42
+iiot S.7
+illustration S.69
+image S.69
+immediately S.37 S.47
+impact S.66 S.66
+implemented S.16
+imply? S.69
+import S.51 S.51
+important S.27
+include S.53
+includes S.10
+including S.10 S.58
+increasing S.6
+industrial S.2 S.6 S.7 S.54 S.55 S.56 S.57 S.58 S.59 S.60 S.61 S.62 S.63 S.64 S.65 S.66 S.67 S.68 S.69
+industrie S.7
+industries S.56
+industry S.4 S.7 S.20 S.56 S.61
+info S.44
+information S.5 S.5 S.9 S.15 S.20 S.56 S.57 S.66
+infrastructure S.6
+infrastructureless S.26
+ing S.1 S.3 S.25 S.54
+ingress S.68 S.69
+initiation S.13
+input S.9 S.10
+inside S.27 S.29
+installed S.13 S.13
+institute S.20 S.20
+instruction S.11
+integrated S.8 S.9
+integration S.52
+integrity S.19 S.49 S.66
+interacting S.8
+interactions S.18
+interface S.10 S.10 S.45 S.46 S.58
+internals S.31
+international S.1 S.3 S.20 S.25 S.54
+internet S.2 S.3 S.4 S.5 S.6 S.7 S.8 S.9 S.10 S.11 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23 S.24 S.32 S.45 S.46 S.55 S.57 S.59 S.60 S.62 S.66
+interrupts S.11
+interworking S.20
+invalid S.30
+involving S.9
+iot S.2 S.2 S.3 S.4 S.5 S.6 S.7 S.8 S.9 S.10 S.11 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23 S.24 S.25 S.26 S.27 S.28 S.29 S.30 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.44 S.45 S.46 S.47 S.48 S.49 S.50 S.51 S.52 S.53 S.55 S.60
+iot” S.8 S.8 S.10
+ip65 S.69 S.69
+iptv S.21
+ipv4 S.14 S.16 S.17 S.41 S.42 S.45 S.53
+ipv6 S.14 S.17 S.24 S.41 S.42
+iso S.20 S.20 S.27
+isp S.22 S.66
+itu S.20
+java S.50 S.50
+jets S.69
+kabelbaum S.59
+keep S.45
+keeps S.47
+key S.67
+kib S.10 S.11
+kinds S.10
+kitchen S.29 S.30
+know S.28
+known S.56 S.58
+label S.21
+labeled S.9 S.9
+lan S.14 S.16 S.21 S.22 S.23 S.53 S.66
+language S.20
+large S.8 S.10 S.11 S.52
+larger S.10
+last S.37 S.47
+later S.6
+layer S.10 S.14 S.15 S.16 S.24 S.32
+layered S.12
+layers S.14 S.24
+learning S.16 S.60
+leased S.21
+least S.29 S.33 S.34 S.37
+legend S.5 S.16 S.30
+len S.44 S.44 S.45 S.46
+length S.17 S.17 S.18 S.36 S.38 S.39 S.40 S.41 S.42 S.45 S.46
+lengths S.42
+less S.13 S.16
+level S.19 S.29 S.30 S.33 S.34 S.37 S.45 S.46 S.58 S.63 S.66
+levels S.29 S.29 S.33 S.34 S.40
+libraries S.50 S.51
+library S.51
+license S.1 S.1 S.3 S.25 S.54
+licensed S.1 S.3 S.25 S.54
+licenses S.1 S.3 S.25 S.54
+life S.61
+lifecycle S.66
+lifetime S.67
+light S.44 S.45 S.46
+lightweight S.27 S.52
+limit S.63
+limited S.16
+line S.20 S.21 S.55
+linear S.66
+lines S.21
+link S.14 S.15 S.16 S.32 S.43
+linkage S.9
+linux S.11
+list S.35
+lists S.69
+live S.17 S.42
+livingroom S.30
+load S.48
+local S.22 S.22 S.23 S.62
+logic S.8 S.47 S.58
+logical S.5 S.9
+logies S.23
+login S.33
+logistics S.6 S.63
+logout S.33
+long S.67
+lookup S.16
+loop S.16
+loop_start S.51
+loop_stop S.51
+lorawan S.10 S.23
+lorixone S.69
+lorixone_details_0 S.69
+loss S.34
+low S.62 S.66 S.67
+lower S.15
+lwt S.44
+m2m S.7 S.24 S.52
+mac S.16 S.16 S.24 S.41 S.42 S.43 S.45
+machine S.7 S.7 S.10 S.24 S.58 S.60 S.66
+machines S.55
+macos S.11
+main S.59
+maintaining S.13
+maintenance S.60 S.67
+major S.66
+making S.61
+man S.22 S.23 S.57
+manage S.47
+management S.19 S.20 S.58
+manufacturing S.56 S.58 S.61 S.63
+many S.8 S.8 S.10 S.11 S.28
+mass S.55
+massive S.7
+match S.31
+matching S.30 S.30 S.37
+max S.38
+maximum S.16 S.41
+mbit S.16
+meaning S.37
+mechanical S.10 S.62 S.66
+mechanisms S.12
+mechanization S.55
+media S.16 S.16
+medical S.6
+medium S.16
+mef S.20
+memory S.11
+mes S.57 S.58
+mesh S.66 S.66
+message S.13 S.13 S.27 S.32 S.33 S.35 S.36 S.37 S.38 S.40 S.43 S.44 S.45 S.46 S.47 S.52 S.53
+messages S.13 S.24 S.29 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.45 S.46 S.47
+metal S.61
+metro S.20
+metropolitan S.22 S.23
+mhz S.11 S.11
+mib S.11 S.11 S.38 S.41
+michael S.1 S.3 S.25 S.54
+microcontroller S.10 S.11
+microprocessor S.10 S.11
+middleware S.52
+millions S.11
+min S.38 S.42
+minus S.40
+mission S.4
+mit S.42
+mixers S.61
+mobile S.21 S.22 S.23 S.60
+model S.14 S.14 S.15 S.20
+monitoring S.6 S.33
+more S.9 S.9 S.11 S.13 S.16 S.21
+mosqsub S.45
+mosquitto S.31 S.45 S.50 S.51
+mosquitto_sub S.45
+most S.13 S.19 S.33 S.34 S.37 S.38 S.45 S.46 S.47 S.61
+motion S.61 S.61
+mpeg S.20
+mpls S.21
+mqtt S.2 S.20 S.23 S.25 S.26 S.27 S.28 S.29 S.30 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.44 S.45 S.46 S.47 S.48 S.49 S.50 S.51 S.52 S.53
+msg S.35 S.36 S.45 S.46
+mss S.41 S.41 S.44
+mtu S.16 S.41
+much S.21
+multi S.29 S.30 S.61
+multicast S.13 S.18
+multiple S.11 S.11 S.16 S.29 S.40 S.48 S.59
+multiplexing S.18 S.19
+multiprotocol S.21
+myhome S.29 S.30
+name S.14 S.35 S.45
+naming S.13
+nat S.17
+national S.20
+needed S.16
+negotiation S.13
+network S.10 S.10 S.12 S.14 S.15 S.16 S.17 S.20 S.21 S.22 S.23 S.57 S.59 S.60 S.62 S.63 S.64 S.65 S.66 S.67 S.68
+networking S.4
+networks S.2 S.2 S.3 S.4 S.5 S.6 S.7 S.8 S.9 S.10 S.11 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23 S.24 S.25 S.26 S.27 S.28 S.29 S.30 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.44 S.45 S.46 S.47 S.48 S.49 S.50 S.51 S.52 S.53 S.54 S.55 S.56 S.57 S.58 S.59 S.60 S.61 S.62 S.63 S.64 S.65 S.66 S.67 S.68 S.69
+new S.23 S.23 S.47 S.56
+next S.17
+nist S.5 S.8 S.9
+node S.50
+nodered S.50
+noderivatives S.1 S.3 S.25 S.54
+nodes S.13
+noncommercial S.1 S.3 S.25 S.54
+none S.11
+normal S.47
+not S.8 S.27 S.28 S.30 S.31 S.34 S.45 S.46
+note S.9
+nozzle S.69
+number S.8 S.11 S.19 S.31 S.38 S.42
+numbers S.45
+numerical S.38
+nutshell S.16 S.17 S.18 S.19
+oasis S.20 S.27
+oauth S.49
+objects” S.8
+off S.28
+offered S.8
+offers S.41
+office S.66
+offset S.17 S.19 S.42
+often S.8 S.10 S.11 S.19 S.66
+oif S.20
+oil S.27 S.56 S.61
+once S.33 S.33 S.34 S.37 S.45 S.46
+one S.9 S.9 S.13 S.29 S.37 S.59
+online S.31
+only S.29 S.37 S.38 S.41
+open S.27 S.27
+operated S.8 S.56
+operating S.10 S.10 S.11
+operation S.32 S.66
+operational S.56 S.57 S.66 S.67
+operations S.63 S.63
+operators S.22 S.23
+opex S.67
+opt S.16
+optical S.20 S.20 S.21
+optimized S.11
+optional S.10 S.17 S.18 S.19 S.32 S.40
+options S.17 S.19
+order S.19 S.36
+org S.1 S.3 S.5 S.8 S.9 S.25 S.27 S.31 S.50 S.54
+organization S.20 S.20
+organizations S.20
+organized S.28
+oriented S.13 S.19 S.27 S.52
+originally S.27
+originates S.10
+osi S.14 S.20
+other S.9 S.13 S.22 S.23 S.50
+out S.8 S.13 S.59
+outage S.66
+outdoor S.66 S.69
+output S.9 S.10
+outside S.66
+over S.16 S.32 S.41 S.49 S.53
+overlapping S.7
+overview” S.65
+packaging S.61
+packet S.12 S.13 S.15 S.17 S.40 S.41
+packets S.12 S.17
+padding S.16 S.17 S.19
+paho S.50 S.50 S.51
+pair S.14 S.16
+part S.66
+partial S.29
+partner S.65
+partnership S.20
+password S.45 S.49 S.51
+path S.43
+pattern S.13 S.28
+patterns S.26
+payload S.15 S.15 S.16 S.17 S.18 S.19 S.32 S.36 S.40 S.41 S.42 S.47
+pdf S.65
+pdu S.15 S.15
+peer S.26 S.26
+peers S.26
+per S.11 S.37 S.59
+performance S.66 S.66
+personal S.66 S.66
+pharmaceuticals S.61
+phy S.16 S.24 S.43
+phy_arch S.64
+physical S.2 S.2 S.3 S.4 S.5 S.6 S.7 S.8 S.9 S.10 S.11 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23 S.24 S.25 S.26 S.27 S.28 S.29 S.30 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.44 S.45 S.46 S.47 S.48 S.49 S.50 S.51 S.52 S.53 S.54 S.55 S.56 S.57 S.58 S.59 S.60 S.61 S.62 S.63 S.64 S.65 S.66 S.67 S.68 S.69
+physics S.8
+picking S.61
+picoiot S.51
+ping S.35 S.35
+pingreq S.33 S.35
+pingresp S.33 S.35
+pipelines S.27
+placing S.61
+plaintext S.32 S.49
+planning S.57 S.58 S.63
+plant S.62 S.66
+plc S.57 S.58
+png S.20 S.69
+point S.19 S.19
+pointer S.19 S.42
+port S.18 S.18 S.19 S.24 S.32 S.41 S.42 S.45 S.46 S.49 S.51 S.66
+possible S.11 S.34 S.49 S.66
+possibly S.10
+power S.11 S.44 S.46 S.55 S.56 S.62
+powering S.44 S.45 S.46
+preamble+sfd S.16
+predictive S.60
+presses S.61
+pressure S.61
+prevention S.16
+principle S.15 S.15 S.42
+printing S.61
+priorities S.66
+private S.21
+process S.10 S.59 S.60 S.61 S.63
+processes S.57 S.58 S.61
+processing S.9
+production S.7 S.55 S.58 S.62 S.66
+prof S.1 S.3 S.25 S.54
+programmable S.58
+project S.20
+projected S.69
+proprietary S.66
+prot S.44
+protected S.66 S.69
+protection S.49 S.66 S.68 S.69
+protocol S.2 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.24 S.25 S.26 S.27 S.28 S.29 S.30 S.31 S.32 S.33 S.34 S.35 S.36 S.37 S.38 S.39 S.40 S.41 S.42 S.43 S.44 S.45 S.46 S.47 S.48 S.49 S.50 S.51 S.52 S.53 S.57
+protocols S.8 S.13 S.14 S.23
+prototyping S.10
+provide S.9
+provider S.22 S.66
+proxy S.26
+psh S.42
+pso S.65
+pso_siemens S.65
+puback S.33 S.34 S.35
+pubcomp S.33 S.34 S.35
+publication S.33
+publish S.26 S.27 S.28 S.31 S.33 S.34 S.35 S.37 S.43 S.44 S.46 S.51
+publish_topic S.51 S.51
+publisher S.26 S.28 S.48
+publishers S.28 S.28 S.29 S.47
+publishing S.51
+pubrec S.33 S.34 S.35
+pubrel S.33 S.34 S.35
+pumps S.61
+pyramid S.57
+python S.50 S.51
+python3 S.51
+qos S.12 S.33 S.34 S.36 S.37 S.40 S.45 S.46 S.47 S.51
+qosretain_message S.51 S.51
+qos” S.33
+quality S.12 S.33
+queuing S.27 S.32 S.52
+radio S.10 S.14
+railroad S.56
+railroads S.55
+ram S.10
+range S.16 S.16 S.66
+raspberry S.11 S.24 S.51
+raspberrypi S.45
+rate S.16
+rating S.68 S.69
+ratings S.68 S.68
+read_retry S.51
+real S.10 S.11 S.58 S.66 S.67
+reality S.56 S.56
+realized S.11
+reassembly S.17 S.19
+receive S.29 S.47
+received S.31 S.31 S.35
+receiver S.34 S.34
+receives S.37
+recent S.47
+recovery S.18 S.19
+recursion S.30
+red S.50
+redundancy S.48
+reference S.14 S.14 S.15 S.20
+refreshed S.13
+related S.7 S.56
+relatively S.61
+released S.35
+relevant S.9
+reliability S.66 S.66 S.67
+reliable S.13 S.19 S.32 S.34 S.41
+remaining S.36 S.36 S.38 S.39
+remotely S.56
+removed S.13
+repeaters S.16
+req S.44
+request S.35 S.35 S.44 S.46
+requested S.46
+required S.31 S.51
+requirements S.66 S.67 S.68
+res S.19
+reserved S.35 S.35 S.37 S.42 S.45 S.46
+resiliency S.48
+resolution S.16
+resource S.58
+response S.35
+resulting S.24 S.53
+results S.40
+retain S.36 S.36 S.37 S.45 S.46
+retain_message S.51
+retained S.37 S.37 S.47
+retransmission S.19 S.37
+revolutions S.55 S.56
+rfid S.6 S.10
+ring S.66 S.66
+risk S.66
+roads S.55
+robotics S.55 S.56
+robustness S.67
+rockwell S.64
+roles S.9 S.26
+rollout S.66 S.66
+rooms S.66
+rough S.67
+router S.17 S.24 S.43 S.44 S.45
+rst S.42
+rules S.13 S.63
+running S.53
+runs S.24
+sack_perm S.44 S.44
+safety S.61 S.63 S.66 S.67
+same S.42
+sap S.58 S.58
+satellite S.62
+scada S.57 S.58 S.66
+scale S.52
+scaling S.48 S.50
+schaltschrank S.59
+scharf S.1 S.3 S.25 S.54
+sciences S.1 S.3 S.25 S.54
+scope S.4 S.5 S.6 S.7 S.8 S.9
+sdos S.20
+seconds S.31
+sectors S.61
+secure S.14
+secured S.32
+security S.19 S.20 S.49 S.63 S.67
+segment S.15 S.19 S.41 S.42
+segmentation S.15 S.19
+seldom S.11 S.11
+selected S.45 S.46
+semantics S.13
+send S.29
+sender S.34 S.34
+sends S.47 S.53
+sense S.16
+sensing S.5
+sensor S.51 S.53 S.59 S.60
+sensors S.10 S.10 S.23 S.57 S.58 S.61
+sent S.31 S.31 S.53
+separate S.26
+separated S.29
+separation S.7
+separator S.29 S.29
+seq S.44 S.44 S.45 S.46
+sequence S.16 S.19 S.42
+series S.53
+serve S.28
+server S.26 S.26 S.28 S.31 S.35 S.47 S.53 S.66
+service S.12 S.12 S.22 S.33 S.42 S.66
+services S.8 S.20 S.21
+session S.13 S.45 S.47
+set S.11 S.13 S.37 S.45 S.46
+setup S.13
+several S.59
+sfd S.16
+shared S.59
+sharing S.26 S.26
+sheet S.69
+shelf S.56 S.66
+shell S.14
+shop S.66
+short S.16
+sicherheit S.67
+siemens S.58 S.58 S.65
+signal S.59
+signaling S.13 S.13
+signals S.59
+significant S.38 S.66
+simatic S.58
+similar S.52 S.52
+simple S.18 S.32 S.51 S.59
+since S.27 S.31 S.59
+single S.10 S.29 S.30
+sip S.13
+site S.63 S.63
+sites S.69
+size S.41 S.41
+sketch S.24 S.53
+slas S.66
+slash S.29
+sleep S.51
+slow S.61
+small S.11 S.24 S.69
+smart S.4 S.6 S.8 S.24 S.44 S.45 S.46 S.55 S.56
+socket S.44 S.45 S.46
+soft S.13
+software S.10 S.16 S.27 S.50 S.51
+solution S.65
+solutions S.20 S.64
+some S.11 S.16 S.32 S.66
+source S.8 S.8 S.9 S.16 S.17 S.18 S.19 S.31 S.42 S.44 S.62 S.64 S.65 S.68 S.69
+space S.17
+spanning S.16
+special S.10 S.62
+specific S.33 S.47
+specify S.13 S.47
+speicherprogrammierbare S.58
+spread S.8
+sps S.58
+src S.41 S.41 S.45 S.46
+ssh S.14
+stack S.10 S.24 S.52
+stacks S.43
+stamping S.61
+standard S.27 S.27 S.68
+standardization S.20
+standardized S.27
+standards S.16 S.20
+star S.66
+start S.16
+started S.31 S.31
+stat S.44 S.44 S.46
+state S.13 S.13
+states S.9
+static S.31 S.66
+station S.69
+steam S.55
+step S.35 S.35
+steuerung S.58
+storage S.9
+stored S.13 S.47
+stores S.37 S.37
+stp S.16
+stream S.15 S.19 S.41
+string S.29 S.30
+structure S.29 S.36 S.53
+structured S.17 S.20
+structures S.66
+suback S.33 S.35
+subscribe S.26 S.27 S.28 S.33 S.35 S.44 S.46
+subscribed S.29 S.47
+subscriber S.20 S.21 S.26 S.28 S.48
+subscribers S.28 S.28 S.29 S.47
+subscribes S.37
+subscription S.31 S.31 S.33 S.37
+subscriptions S.31 S.31
+subsequent S.29
+such S.9 S.9 S.14 S.16 S.24 S.56
+sufficient S.66
+summary S.67
+supervision S.27 S.57 S.58
+supervisory S.63 S.63
+support S.27 S.32 S.67
+survey S.62
+svg S.20
+switch S.16 S.43
+switching S.13 S.13 S.16 S.21
+syn S.42 S.44
+syntax S.13 S.30
+sys S.31 S.31
+system S.9 S.9 S.10 S.11 S.12 S.14 S.31 S.56 S.58
+systems S.5 S.5 S.7 S.8 S.11 S.22 S.23 S.52 S.55 S.57 S.58 S.60
+tags” S.6
+task S.20
+tcp S.14 S.19 S.20 S.27 S.32 S.34 S.41 S.42 S.43 S.44 S.52 S.53
+team S.66
+technical S.57
+techno S.23
+technologies S.10 S.14 S.21 S.23 S.59 S.62
+technology S.5 S.56 S.57 S.66
+tele S.44 S.44
+telecommunication S.20
+telecommunications S.20 S.20
+telediagnosis S.6
+telemanagement S.20
+telemetry S.27 S.32 S.45 S.46
+telephony S.21 S.22 S.23
+television S.21
+tell S.44
+temperature S.29 S.30 S.51 S.61 S.66
+term S.8 S.10
+terminology S.7 S.8
+terms S.7
+test S.51
+than S.11 S.11 S.16
+that S.9 S.10 S.24 S.28 S.37 S.53
+the S.1 S.3 S.8 S.9 S.10 S.13 S.14 S.15 S.16 S.20 S.21 S.24 S.25 S.29 S.31 S.37 S.38 S.47 S.51 S.53 S.54 S.56 S.66 S.69
+them S.47
+then S.9
+there S.47
+these S.8 S.9 S.29
+things S.2 S.3 S.4 S.5 S.6 S.7 S.8 S.9 S.10 S.11 S.12 S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.22 S.23 S.24 S.55 S.62
+things” S.5 S.8
+third S.20
+this S.1 S.1 S.3 S.25 S.29 S.54 S.69
+thousands S.11
+three S.9
+through S.8
+throughput S.66
+tib S.11
+tight S.69
+time S.11 S.11 S.17 S.31 S.42 S.51 S.58 S.61 S.66 S.67
+timeout S.13
+times S.29
+tls S.19 S.32 S.49
+tmf S.20
+today S.10 S.55
+token S.49
+tokens S.49
+top S.19 S.27
+topic S.29 S.29 S.30 S.31 S.37 S.40 S.46 S.47
+topics S.28 S.29 S.31 S.47
+topologies S.59
+topology S.66
+tos S.17 S.42
+total S.17 S.31 S.40 S.41 S.42
+towards S.10 S.59
+track S.47
+tracking S.6
+trailer S.15 S.15 S.41 S.42 S.53
+transactional S.18
+transducing S.9 S.9
+transfer S.13 S.13 S.14
+transformation S.9
+transistors S.11
+transmission S.9 S.14 S.16 S.19 S.41 S.45 S.46 S.66
+transport S.13 S.14 S.15 S.16 S.17 S.18 S.19 S.20 S.21 S.27 S.32 S.41 S.45 S.46 S.49
+transportation S.56
+transported S.15
+traversal S.43
+tree S.16 S.66
+trend S.8 S.59 S.66
+true S.37 S.51
+tsn S.23
+ttl S.17 S.42
+turned S.28
+twin” S.56
+twisted S.14 S.16
+type S.16 S.31 S.35 S.36 S.42 S.45 S.46
+types S.33 S.33
+typical S.6 S.11 S.18 S.19 S.63
+typically S.10 S.12 S.16 S.58 S.66
+ubiquitous S.7 S.55
+udp S.14 S.18 S.24 S.52
+unclear S.8
+under S.1 S.3 S.25 S.54
+unencrypted S.32 S.49
+ungracefully S.47
+unicast S.13
+union S.20
+unique S.16
+unit S.15 S.15 S.16 S.41
+units S.11 S.53
+university S.1 S.3 S.25 S.54
+unless S.13
+uno S.11
+unreliable S.13 S.18
+unsuback S.33 S.35
+unsubscribe S.33 S.35
+until S.59
+upper S.15
+uptime S.31
+urg S.42
+urgent S.19 S.42
+uri S.27 S.27
+usability S.66
+usage S.6 S.7 S.18 S.19
+use S.1 S.2 S.4 S.5 S.6 S.7 S.8 S.9 S.29 S.30 S.32 S.48 S.56
+used S.14 S.24 S.52 S.53
+user S.9 S.14 S.18 S.45 S.49
+username S.49 S.51
+username_pw_set S.51
+uses S.33
+using S.56 S.59
+usr S.51
+utf S.29
+utilities S.56 S.61
+value S.37 S.38 S.39 S.47
+variabel S.36
+variable S.32 S.36 S.40
+variety S.10 S.10
+vary S.9
+vehicles S.8 S.56
+vendors S.66
+verfügbarkeit S.67
+version S.14 S.14 S.17 S.27 S.31 S.42 S.45 S.46
+versions S.27
+vertical S.56
+verticals S.64
+very S.33
+via S.24
+vibrations S.66
+video S.20
+view S.1 S.3 S.25 S.54
+virtual S.16 S.21 S.56
+visit S.1 S.3 S.25 S.54
+vlan S.16 S.16
+vpns S.21
+w3c S.20
+wan S.22 S.23 S.66
+warning S.33
+water S.55 S.61 S.66 S.69
+way! S.33
+web S.20 S.26 S.61
+websockets S.32
+welding S.61
+well S.9 S.16
+what S.13 S.69
+when S.9 S.47
+where S.8 S.9
+while S.51
+who S.44
+wide S.20 S.22 S.23 S.62 S.66
+widely S.52
+wiki S.31
+wildcard S.29 S.29 S.30
+wildcards S.29 S.30
+will S.45 S.45 S.47
+win S.44 S.44
+wincc S.58
+window S.19 S.42
+windows S.11
+wire S.45 S.46 S.61
+wireless S.10 S.14 S.21 S.23 S.53 S.62 S.69
+wireline S.10 S.23
+wiring S.59 S.59
+with S.7 S.9 S.10 S.14 S.16 S.19 S.24 S.30 S.32 S.36 S.38 S.41 S.47 S.51 S.53 S.63
+within S.10
+without S.10 S.12 S.52
+wlan S.10 S.14 S.20 S.21 S.43 S.53 S.62
+words S.9
+work S.1 S.3 S.25 S.54
+world S.10 S.20
+www S.50 S.50 S.55 S.64 S.65 S.68 S.69
+xml S.20
+year S.11 S.27
+years S.66 S.66
+yes S.11
+zone S.63 S.63
+zuverlässigkeit S.67
+°c” S.28 S.28
+–physical S.7
+‘cps S.9
+‘yes S.9
